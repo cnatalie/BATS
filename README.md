@@ -14,22 +14,22 @@ Note: annotation and count data is available on Zenodo.
 profiles.ipynb = Trace metal profiles. Trace metal data is contained in metals_ODV.csv, and CTD data is available on Zenodo.
 
 ## Analysis files
-correlations.csv
+metals_ODV.csv = Dissolved trace metals in nM, macronutrients in uM, and particulate trace metals in pM
 
-ko2brite.csv
+id.csv = Sequencing file ID to sample key
 
-rest.kegg.jp.txt
+levels.csv = Order of samples for stacked barplot plotting
 
-id.csv
-
-levels.csv
-
-CLIO_BV55_forcopiesL.csv
+CLIO_BV55_forcopiesL.csv = Pigment concentrations in ng/kg. Pigments were not measured from Clio dives at Stations 1 or 3, and instead pigments were collected from the CTD casts, which generally agreed with Clio measurements at other stations. If CTD collection depths did not match those sampled by Clio, concentrations were estimated from nearby depths. Note that DvA and Vix were not measured at St. 1 and 3, and at these stations, the maximum depth pigments were measured was 150 m. (Pigment abbreviations: ChlC3 = Chlorophyll c3, ChlC2 = Chlorophyll c2, Per = Peridinin, NBut = 19'But-Fucoxanthin, Fux = Fucoxanthin, NHex = 19'Hex-Fucoxanthin, Prx = Prasinoxanthin, Vix = Violoxanthin, Ddx = Diadinoxanthin, Alx = Alloxanthin, Dt = Diatoxanthin, Lut = Lutein, Zex = Zeaxanthin, ChlB = chlorophyll b, DvA = Divinyl Chlorophyll a, Chla = chlorophyll a, ABCar = Alpha & Beta Carotene.)
 
 BATS_metaproteome_sample_progress_forbarplot.csv = extracted protein concentration from Clio filters in ug/L
 
 BATS_quant.csv = Total protein amount from Clio filters, amount injected onto the mass spectrometer, and volume filtered. These parameters are used to calculate protein spectral counts per L: spectral counts * (total protein/protein injected) / volume filtered.
 
-transcripts.goi.pls.csv
+correlations.csv = Nutrient and physicochemical metadata for network and PLS correlation analyses
+
+ko2brite.csv = Kegg KO to BRITE category key
+
+rest.kegg.jp.txt = Kegg KOs alongside definitions
 
 ## Assemblies, annotations, read counts are available on Zenodo: https://zenodo.org/record/7317272#.Y3Z5w-zMInV
