@@ -1,4 +1,5 @@
 # BATS
+Notebooks associated with the study "Protistan metabolism across the western North Atlantic Ocean revealed through autonomous underwater profiling". Using an Autonomous Underwater Vehicle (AUV), high resolution vertical sampling of the microbial community was performed along a western North Atlantic Ocean transect, capturing metabolic signatures from oligotrophic, continental margin, and coastal ecosystems. Plankton biomass was collected along the surface gradient and across depths (to 4,100 m), and taxonomy and function was examined using a paired metatranscriptomic and metaproteomic approach. The metatranscriptomic assembly was generated using the <i>eukrhythmic</i> pipeline (https://github.com/AlexanderLabWHOI/eukrhythmic).
 
 ## Notebooks
 BATS_R.ipynb = Community composition stacked barplots, NMDS plots, MA plots, Partial Least Squares regression with transcripts and metadata
