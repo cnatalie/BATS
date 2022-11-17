@@ -9,7 +9,7 @@ network.ipynb = Network analysis with transcripts
 network-proteins.ipynb = Network analysis with proteins, Partial Least Squares regression with proteins and metadata, and Partial Least Squares regression with 
 proteins and transcripts
 
-Note: annotation and count data is available on Zenodo.
+<i>Note: annotation and count data is available on Zenodo.</i>
 
 profiles.ipynb = Trace metal profiles. Trace metal data is contained in metals_ODV.csv, and CTD data is available on Zenodo.
 
