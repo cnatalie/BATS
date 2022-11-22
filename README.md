@@ -1,15 +1,12 @@
 # BATS
-Notebooks associated with the study "Protistan metabolism across the western North Atlantic Ocean revealed through autonomous underwater profiling". Using an Autonomous Underwater Vehicle (AUV), high resolution vertical sampling of the microbial community was performed along a western North Atlantic Ocean transect, capturing metabolic signatures from oligotrophic, continental margin, and coastal ecosystems. Plankton biomass was collected along the surface gradient and across depths (to 4,100 m), and taxonomy and function was examined using a paired metatranscriptomic and metaproteomic approach. The metatranscriptomic assembly was generated using the <i>eukrhythmic</i> pipeline (https://github.com/AlexanderLabWHOI/eukrhythmic).
+Notebooks associated with the study "Protistan metabolism across the western North Atlantic Ocean revealed through autonomous underwater profiling". Using an Autonomous Underwater Vehicle (AUV), high resolution vertical sampling of the microbial community was performed along a western North Atlantic Ocean transect, capturing metabolic signatures from oligotrophic, continental margin, and coastal ecosystems. Plankton biomass was collected along the surface gradient and across depths (to 4,100 m), and taxonomy and function was examined using a paired metatranscriptomic and metaproteomic approach. The metatranscriptomic assembly was generated using the <i>euk</i>rhythmic pipeline (https://github.com/AlexanderLabWHOI/eukrhythmic).
 
 ## Notebooks
-<b>BATS_R_cleaned.ipynb</b> = Protein normalizations, community composition stacked barplots, NMDS plots, MA plots, Partial Least Squares regression with transcripts and metadata
+<b>BATS_R_cleaned.ipynb</b> = Protein normalizations, community composition stacked barplots, NMDS plots, MA plots, Partial Least Squares regression with transcripts and metadata. This notebook is "choose your own adventure" style, where you can read in the dataset of interest in the first code block (by commenting/uncommenting them out), and perform which normalizations/visualizations to run. Datasets are available on Zenodo (see below).
 
 <b>network.ipynb</b> = Network analysis with transcripts
 
-<b>network-proteins.ipynb</b> = Network analysis with proteins, Partial Least Squares regression with proteins and metadata, and Partial Least Squares regression with 
-proteins and transcripts
-
-<i>Note: annotation and count data is available on Zenodo.</i>
+<b>network-proteins.ipynb</b> = Network analysis with proteins, Partial Least Squares regression with proteins and metadata, and Partial Least Squares regression with proteins and transcripts
 
 <b>profiles.ipynb</b> = Trace metal profiles. Trace metal data is contained in metals_ODV.csv, and CTD data is available on Zenodo.
 
