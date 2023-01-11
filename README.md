@@ -13,6 +13,8 @@ Notebooks associated with the study "Protistan metabolism across the western Nor
 ## Analysis files
 <b>metals_ODV.csv</b> = Dissolved trace metals in nM, macronutrients in uM, and particulate trace metals in pM
 
+<b>Salinity_metals.csv</b> = Dissolved trace metals in nM alongside Salinity (PSU) from CTD
+
 <b>id.csv</b> = Sequencing file ID to sample key
 
 <b>levels.csv</b> = Order of samples for stacked barplot plotting
