@@ -8,7 +8,7 @@ Notebooks associated with the study "Protistan metabolism across the western Nor
 
 <b>network-proteins.ipynb</b> = Network analysis with proteins, Partial Least Squares regression with proteins and metadata, and Partial Least Squares regression with proteins and transcripts
 
-<b>profiles.ipynb</b> = Trace metal profiles. Trace metal data is contained in metals_ODV.csv, and CTD data is available on Zenodo.
+<b>profiles.ipynb</b> = Trace metal profiles. Trace metal data is contained in metals_ODV.csv, and CTD data is available on Zenodo. At the bottom of this notebook is extracted protein (ug/L), eukaryotic transcript (copies/L) and pigment (ng/kg) correlations.
 
 ## Analysis files
 <b>metals_ODV.csv</b> = Dissolved trace metals in nM, macronutrients in uM, and particulate trace metals in pM
