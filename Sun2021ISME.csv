@@ -1,0 +1,325 @@
+KO,def,class
+ko:K13643,"iscR; Rrf2 family transcriptional regulator, iron-sulfur cluster assembly transcription factor",transcription factor
+ko:K13772,"rirA; Rrf2 family transcriptional regulator, iron-responsive regulator",transcription factor
+ko:K04758,feoA; ferrous iron transport protein A,iron
+ko:K04759,feoB; ferrous iron transport protein B,iron
+ko:K07490,feoC; ferrous iron transport protein C,iron
+ko:K10123,feoC; putative ferrous iron transport protein C,iron
+ko:K07224,efeO; iron uptake system component EfeO,iron
+ko:K07230,"p19, ftrA; periplasmic iron binding protein",iron
+ko:K07243,"FTR, FTH1, efeU; high-affinity iron transporter",iron
+ko:K09818,ABC.MN.S; manganese/iron transport system substrate-binding protein,divalent metal
+ko:K09819,ABC.MN.P; manganese/iron transport system permease protein,divalent metal
+ko:K09820,ABC.MN.A; manganese/iron transport system ATP-binding protein,divalent metal
+ko:K11604,sitA; manganese/iron transport system substrate-binding protein,divalent metal
+ko:K11605,sitC; manganese/iron transport system permease protein,divalent metal
+ko:K11606,sitD; manganese/iron transport system permease protein,divalent metal
+ko:K11607,sitB; manganese/iron transport system ATP-binding protein,divalent metal
+ko:K11704,mtsA; iron/zinc/manganese/copper transport system substrate-binding protein,divalent metal
+ko:K11705,mtsC; iron/zinc/manganese/copper transport system permease protein,divalent metal
+ko:K11706,mtsB; iron/zinc/manganese/copper transport system ATP-binding protein,divalent metal
+ko:K11707,"troA, mntA, znuA; manganese/zinc/iron transport system substrate-binding protein",divalent metal
+ko:K11710,"troB, mntB, znuC; manganese/zinc/iron transport system ATP- binding protein [EC:7.2.2.5]",divalent metal
+ko:K11708,"troC, mntC, znuB; manganese/zinc/iron transport system permease protein",divalent metal
+ko:K11709,"troD, mntD, znuB; manganese/zinc/iron transport system permease protein",divalent metal
+ko:K12346,SMF; metal iron transporter,iron
+ko:K13283,fieF; ferrous-iron efflux pump FieF,iron
+ko:K15113,"SLC25A28_37, MFRN; solute carrier family 25 (mitochondrial iron transporter), member 28/37",iron
+ko:K16301,efeB; deferrochelatase/peroxidase EfeB [EC:1.11.1.-],iron
+ko:K19792,FET4; low-affinity ferrous iron transport protein,iron
+ko:K22736,VIT; vacuolar iron transporter family protein,iron
+ko:K00521,E1.16.1.7; ferric-chelate reductase [EC:1.16.1.7],iron
+ko:K02012,"afuA, fbpA; iron(III) transport system substrate-binding protein",iron
+ko:K02011,"afuB, fbpB; iron(III) transport system permease protein",iron
+ko:K02010,"afuC, fbpC; iron(III) transport system ATP-binding protein [EC:7.2.2.7]",iron
+ko:K02013,ABC.FEV.A; iron complex transport system ATP-binding protein [EC:7.2.2.-],iron
+ko:K07229,yqjH; ferric-chelate reductase (NADPH) [EC:1.16.1.9],iron
+ko:K13255,fhuF; ferric iron reductase protein FhuF,iron
+ko:K18915,feR; ferric-chelate reductase [NAD(P)H] [EC:1.16.1.10],iron
+ko:K00216,"entA; 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [EC:1.3.1.28]",siderophore
+ko:K01252,"entB, dhbB, vibB, mxcF; bifunctional isochorismate lyase / aryl carrier protein [EC:3.3.2.1 6.3.2.14]",siderophore
+ko:K02361,entC; isochorismate synthase [EC:5.4.4.2],siderophore
+ko:K02362,entD; enterobactin synthetase component D [EC:6.3.2.14 2.7.8.-],siderophore
+ko:K02363,"entE, dhbE, vibE, mxcE; 2,3-dihydroxybenzoate-AMP ligase [EC:6.3.2.14 2.7.7.58]",siderophore
+ko:K02364,entF; enterobactin synthetase component F [EC:6.3.2.14],siderophore
+ko:K08225,"entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter",siderophore
+ko:K02552,menF; menaquinone-specific isochorismate synthase [EC:5.4.4.2],siderophore
+ko:K04778,vibH; vibriobactin synthetase,siderophore
+ko:K04780,dhbF; nonribosomal peptide synthetase DhbF,siderophore
+ko:K04781,"mbtI, irp9, ybtS; salicylate synthetase [EC:5.4.4.2 4.2.99.21]",siderophore
+ko:K01851,pchA; salicylate biosynthesis isochorismate synthase [EC:5.4.4.2],siderophore
+ko:K04782,pchB; isochorismate pyruvate lyase [EC:4.2.99.21],siderophore
+ko:K12238,pchD; pyochelin biosynthesis protein PchD,siderophore
+ko:K12239,pchE; dihydroaeruginoic acid synthetase,siderophore
+ko:K12240,pchF; pyochelin synthetase,siderophore
+ko:K12241,pchG; pyochelin biosynthetic protein PchG,siderophore
+ko:K04786,"irp1, HMWP1; yersiniabactin nonribosomal peptide/polyketide synthase",siderophore
+ko:K04784,"irp2, HMWP2; yersiniabactin nonribosomal peptide synthetase",siderophore
+ko:K04785,"irp3, ybtU; yersiniabactin synthetase, thiazolinyl reductase component",siderophore
+ko:K04783,"irp5, ybtE; yersiniabactin salicyl-AMP ligase [EC:6.3.2.-]",siderophore
+ko:K04787,mbtA; mycobactin salicyl-AMP ligase [EC:6.3.2.-],siderophore
+ko:K04788,mbtB; mycobactin phenyloxazoline synthetase,siderophore
+ko:K04790,mbtC; mycobactin polyketide synthetase MbtC,siderophore
+ko:K04791,mbtD; mycobactin polyketide synthetase MbtD,siderophore
+ko:K04789,mbtE; mycobactin peptide synthetase MbtE,siderophore
+ko:K04792,mbtF; mycobactin peptide synthetase MbtF,siderophore
+ko:K04793,mbtG; mycobactin lysine-N-oxygenase,siderophore
+ko:K12237,vibF; nonribosomal peptide synthetase VibF,siderophore
+ko:K15653,mxcG; nonribosomal peptide synthetase MxcG,siderophore
+ko:K15681,mxcL; aminotransferase MxcL,siderophore
+ko:K22148,SIDC; ferricrocin synthase,siderophore
+ko:K02003,ABC.CD.A; putative ABC transport system ATP-binding protein,siderophore
+ko:K02014,TC.FEV.OM; iron complex outermembrane recepter protein,iron
+ko:K02015,ABC.FEV.P; iron complex transport system permease protein,iron
+ko:K02016,ABC.FEV.S; iron complex transport system substrate-binding protein,iron
+ko:K02074,ABC.ZM.A; zinc/manganese transport system ATP-binding protein,divalent metal
+ko:K02075,ABC.ZM.P; zinc/manganese transport system permease protein,divalent metal
+ko:K02077,ABC.ZM.S; zinc/manganese transport system substrate-binding protein,divalent metal
+ko:K03559,exbD; biopolymer transport protein ExbD,siderophore
+ko:K03560,tolR; biopolymer transport protein TolR,siderophore
+ko:K03832,tonB; periplasmic protein TonB,siderophore
+ko:K08197,"ARN; MFS transporter, SIT family, siderophore-iron:H symporter",siderophore
+ko:K16087,"TC.FEV.OM3, tbpA, hemR, lbpA, hpuB, bhuR, hugA, hmbR; hemoglobin/transferrin/lactoferrin receptor protein",siderophore
+ko:K16088,"TC.FEV.OM1, fhuE, fpvA, fptA; outer-membrane receptor for ferric coprogen and ferric-rhodotorulic acid",siderophore
+ko:K16089,"TC.FEV.OM2, cirA, cfrA, hmuR; outer membrane receptor for ferrienterochelin and colicins",siderophore
+ko:K16090,fiu; catecholate siderophore receptor,siderophore
+ko:K07165,fecR; transmembrane sensor,siderophore
+ko:K16091,fecA; Fe(3) dicitrate transport protein,siderophore
+ko:K23181,fecB; ferric citrate transport system substrate-binding protein,siderophore
+ko:K23183,fecC; ferric citrate transport system permease protein,siderophore
+ko:K23182,fecD; ferric citrate transport system permease protein,siderophore
+ko:K23184,fecE; ferric citrate transport system ATP-binding protein [EC:7.2.2.18],siderophore
+ko:K19611,"fepA, pfeA, iroN, pirA; ferric enterobactin receptor",siderophore
+ko:K23185,fepB; ferric enterobactin transport system substrate-binding protein,siderophore
+ko:K23188,fepC; ferric enterobactin transport system ATP-binding protein [EC:7.2.2.17],siderophore
+ko:K23186,fepD; ferric enterobactin transport system permease protein,siderophore
+ko:K23187,fepG; ferric enterobactin transport system permease protein,siderophore
+ko:K23228,fhuB; ferric hydroxamate transport system permease protein,siderophore
+ko:K10829,fhuC; ferric hydroxamate transport system ATP-binding protein [EC:7.2.2.16],siderophore
+ko:K23227,fhuD; ferric hydroxamate transport system substrate-binding protein,siderophore
+ko:K03561,exbB; biopolymer transport protein ExbB,siderophore
+ko:K03562,tolQ; biopolymer transport protein TolQ,siderophore
+ko:K03646,tolA; colicin import membrane protein,siderophore
+ko:K00204,fwdH; 4Fe-4S ferredoxin,iron
+ko:K00205,"fwdF, fmdF; 4Fe-4S ferredoxin",iron
+ko:K00230,hemG; menaquinone-dependent protoporphyrinogen oxidase [EC:1.3.5.3],iron
+ko:K00380,cysJ; sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2],iron
+ko:K03809,wrbA; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2],iron
+ko:K03839,"fldA, nifF, isiB; flavodoxin I",iron
+ko:K03840,fldB; flavodoxin II,iron
+ko:K04755,"fdx; ferredoxin, 2Fe-2S",iron
+ko:K05524,fdxA; ferredoxin,iron
+ko:K06205,mioC; MioC protein,iron
+ko:K11260,fwdG; 4Fe-4S ferredoxin,iron
+ko:K12264,norV; anaerobic nitric oxide reductase flavorubredoxin,iron
+ko:K07225,hmuS; putative hemin transport protein,iron
+ko:K21480,"HO, pbsA1, hmuO; heme oxygenase (biliverdin-producing, ferredoxin) [EC:1.14.15.20]",iron
+ko:K00435,hemQ; Fe-coproporphyrin III decarboxylase [EC:1.11.1.-],iron
+ko:K02193,ccmA; heme exporter protein A [EC:7.6.2.5],iron
+ko:K02194,ccmB; heme exporter protein B,iron
+ko:K02195,ccmC; heme exporter protein C,iron
+ko:K02196,ccmD; heme exporter protein D,iron
+ko:K07226,"hugZ, hutZ; heme iron utilization protein",iron
+ko:K07227,chuX; heme iron utilization protein,iron
+ko:K09813,hrtB; hemin transport system permease protein,iron
+ko:K09814,hrtA; hemin transport system ATP-binding protein [EC:3.6.3.-],iron
+ko:K14193,isdA; iron-regulated surface determinant protein A,iron
+ko:K15650,"cmaB; non-haem Fe2, alpha-ketoglutarate-dependent halogenase",iron
+ko:K00522,FTH1; ferritin heavy chain [EC:1.16.3.2],iron
+ko:K02217,"ftnA, ftn; ferritin [EC:1.16.3.2]",iron
+ko:K02255,ftnB; ferritin-like protein 2,iron
+ko:K03594,bfr; bacterioferritin [EC:1.16.3.1],iron
+ko:K04047,dps; starvation-inducible DNA-binding protein,iron
+ko:K16092,btuB; vitamin B12 transporter,vitamin
+ko:K06858,btuF; vitamin B12 transport system substrate-binding protein,vitamin
+ko:K06073,btuC; vitamin B12 transport system permease protein,vitamin
+ko:K06074,btuD; vitamin B12 transport system ATP-binding protein [EC:7.6.2.8],vitamin
+ko:K00124,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",iron
+ko:K00184,"K00184; prokaryotic molybdopterin-containing oxidoreductase family, iron-sulfur binding subunit",iron
+ko:K00196,cooF; anaerobic carbon-monoxide dehydrogenase iron sulfur subunit,iron
+ko:K00235,"SDHB, SDH2; succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]",iron
+ko:K00240,"sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]",iron
+ko:K00245,frdB; fumarate reductase iron-sulfur subunit [EC:1.3.5.4],iron
+ko:K00411,"UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]",iron
+ko:K00437,hydB; [NiFe] hydrogenase large subunit [EC:1.12.2.1],iron
+ko:K02636,petC; cytochrome b6-f complex iron-sulfur subunit [EC:7.1.1.6],iron
+ko:K03620,hyaC; Ni/Fe-hydrogenase 1 B-type cytochrome subunit,iron
+ko:K03886,"MQCRA, qcrA, bfcA, petC; menaquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.-]",iron
+ko:K03890,qcrA; ubiquinol-cytochrome c reductase iron-sulfur subunit,iron
+ko:K03934,NDUFS1; NADH dehydrogenase (ubiquinone) Fe-S protein 1 [EC:7.1.1.2 1.6.99.3],iron
+ko:K03935,NDUFS2; NADH dehydrogenase (ubiquinone) Fe-S protein 2 [EC:7.1.1.2 1.6.99.3],iron
+ko:K03936,NDUFS3; NADH dehydrogenase (ubiquinone) Fe-S protein 3 [EC:7.1.1.2 1.6.99.3],iron
+ko:K03937,NDUFS4; NADH dehydrogenase (ubiquinone) Fe-S protein 4,iron
+ko:K03938,NDUFS5; NADH dehydrogenase (ubiquinone) Fe-S protein 5,iron
+ko:K03939,NDUFS6; NADH dehydrogenase (ubiquinone) Fe-S protein 6,iron
+ko:K03940,NDUFS7; NADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:7.1.1.2 1.6.99.3],iron
+ko:K03941,NDUFS8; NADH dehydrogenase (ubiquinone) Fe-S protein 8 [EC:7.1.1.2 1.6.99.3],iron
+ko:K05586,hoxE; bidirectional [NiFe] hydrogenase diaphorase subunit [EC:7.1.1.2],iron
+ko:K05587,hoxF; bidirectional [NiFe] hydrogenase diaphorase subunit [EC:7.1.1.2],iron
+ko:K05588,hoxU; bidirectional [NiFe] hydrogenase diaphorase subunit [EC:7.1.1.2],iron
+ko:K05922,hydB; quinone-reactive Ni/Fe-hydrogenase large subunit [EC:1.12.5.1],iron
+ko:K05927,hydA; quinone-reactive Ni/Fe-hydrogenase small subunit [EC:1.12.5.1],iron
+ko:K05997,sufA; Fe-S cluster assembly protein SufA,iron
+ko:K07400,nfuA; Fe/S biogenesis protein NfuA,iron
+ko:K08941,pscB; photosystem P840 reaction center iron-sulfur protein,iron
+ko:K09013,sufC; Fe-S cluster assembly ATP-binding protein,iron
+ko:K09014,sufB; Fe-S cluster assembly protein SufB,iron
+ko:K09015,sufD; Fe-S cluster assembly protein SufD,iron
+ko:K11473,glcF; glycolate oxidase iron-sulfur subunit,iron
+ko:K13480,"ygeU, xdhC; xanthine dehydrogenase iron-sulfur-binding subunit",iron
+ko:K13483,yagT; xanthine dehydrogenase YagT iron-sulfur-binding subunit,iron
+ko:K13628,iscA; iron-sulfur cluster assembly protein,iron
+ko:K14127,"mvhD, vhuD, vhcD; F420-non-reducing hydrogenase iron-sulfur subunit [EC:1.12.99.- 1.8.98.5 1.8.98.6]",iron
+ko:K15023,acsE; 5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase [EC:2.1.1.258],iron
+ko:K15724,erpA; iron-sulfur cluster insertion protein,iron
+ko:K15878,"K15878, narB; rieske iron-sulfur protein",iron
+ko:K16879,hmfC; 2-furoyl-CoA dehydrogenase 2Fe-2S iron sulfur subunit [EC:1.3.99.8],iron
+ko:K17220,sreB; sulfur reductase FeS subunit,iron
+ko:K17997,hydA; iron-hydrogenase subunit alpha [EC:1.12.1.4],iron
+ko:K17998,hydB; iron-hydrogenase subunit beta [EC:1.12.1.4],iron
+ko:K17999,hydC; iron-hydrogenase subunit gamma [EC:1.12.1.4],iron
+ko:K18005,hoxF; [NiFe] hydrogenase diaphorase moiety large subunit [EC:1.12.1.2],iron
+ko:K18006,hoxU; [NiFe] hydrogenase diaphorase moiety small subunit [EC:1.12.1.2],iron
+ko:K18008,hydA; [NiFe] hydrogenase small subunit [EC:1.12.2.1],iron
+ko:K18501,hmeD; heterodisulfide reductase iron-sulfur subunit,iron
+ko:K20446,ndhS; nicotinate dehydrogenase small FeS subunit [EC:1.17.1.5],iron
+ko:K22063,ISCA1; iron-sulfur cluster assembly 1,iron
+ko:K22068,"ISCU; iron-sulfur cluster assembly enzyme ISCU, mitochondrial",iron
+ko:K22072,ISCA2; iron-sulfur cluster assembly 2,iron
+ko:K22074,"NFU1, HIRIP5; NFU1 iron-sulfur cluster scaffold homolog, mitochondrial",iron
+ko:K23301,"qrcC; menaquinone reductase, iron-sulfur cluster-binding subunit [EC:1.97.-.-]",iron
+ko:K02586,nifD; nitrogenase molybdenum-iron protein alpha chain [EC:1.18.6.1],iron
+ko:K02588,nifH; nitrogenase iron protein NifH,iron
+ko:K02591,nifK; nitrogenase molybdenum-iron protein beta chain [EC:1.18.6.1],iron
+ko:K02592,nifN; nitrogenase molybdenum-iron protein NifN,iron
+ko:K04564,"SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]",divalent metal
+ko:K07231,K07231; putative iron-regulated protein,iron
+ko:K14685,"SLC40A1, FPN1; solute carrier family 40 (iron-regulated transporter), member 1",iron
+ko:K19791,FET3_5; iron transport multicopper oxidase,iron
+ko:K20150,cyc2; iron:rusticyanin reductase [EC:1.16.9.1],iron
+ko:K22226,ahbC; Fe-coproporphyrin III synthase,iron
+ko:K22416,IREB2; iron-responsive element-binding protein 2,iron
+ko:K22737,mbfA; erythrin-vacuolar iron transport family protein,iron
+ko:K22899,vnfH; vanadium nitrogenase iron protein,iron
+ko:K03709,"troR; DtxR family transcriptional regulator, Mn-dependent transcriptional regulator",manganese
+ko:K02076,"zurR, zur; Fur family transcriptional regulator, zinc uptake regulator",zinc
+ko:K03711,"fur, zur, furB; Fur family transcriptional regulator, ferric uptake regulator",iron
+ko:K09823,"zur; Fur family transcriptional regulator, zinc uptake regulator",zinc
+ko:K09826,"irr; Fur family transcriptional regulator, iron response regulator",iron
+ko:K00260,"gudB, rocG; glutamate dehydrogenase [EC:1.4.1.2]",nitrogen
+ko:K00261,"GLUD1_2, gdhA; glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]",nitrogen
+ko:K00262,"E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]",nitrogen
+ko:K00264,GLT1; glutamate synthase (NADH) [EC:1.4.1.14],nitrogen
+ko:K00265,gltB; glutamate synthase (NADPH) large chain [EC:1.4.1.13],nitrogen
+ko:K00266,gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13],nitrogen
+ko:K00284,"GLU, gltS; glutamate synthase (ferredoxin) [EC:1.4.7.1]",nitrogen
+ko:K00360,nasB; assimilatory nitrate reductase electron transfer subunit [EC:1.7.99.-],nitrogen
+ko:K00362,nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15],nitrogen
+ko:K00363,nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15],nitrogen
+ko:K00366,nirA; ferredoxin-nitrite reductase [EC:1.7.7.1],nitrogen
+ko:K00367,narB; ferredoxin-nitrate reductase [EC:1.7.7.2],nitrogen
+ko:K00368,nirK; nitrite reductase (NO-forming) [EC:1.7.2.1],nitrogen
+ko:K00370,"narG, narZ, nxrA; nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.-]",nitrogen
+ko:K00371,"narH, narY, nxrB; nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-]",nitrogen
+ko:K00372,nasA; assimilatory nitrate reductase catalytic subunit [EC:1.7.99.-],nitrogen
+ko:K00374,"narI, narV; nitrate reductase gamma subunit [EC:1.7.5.1 1.7.99.-]",nitrogen
+ko:K00376,nosZ; nitrous-oxide reductase [EC:1.7.2.4],nitrogen
+ko:K00459,"ncd2, npd; nitronate monooxygenase [EC:1.13.12.16]",nitrogen
+ko:K00531,anfG; nitrogenase delta subunit [EC:1.18.6.1],nitrogen
+ko:K00926,arcC; carbamate kinase [EC:2.7.2.2],nitrogen
+ko:K01455,E3.5.1.49; formamidase [EC:3.5.1.49],nitrogen
+ko:K01501,E3.5.5.1; nitrilase [EC:3.5.5.1],nitrogen
+ko:K01672,CA; carbonic anhydrase [EC:4.2.1.1],carbon
+ko:K01673,"cynT, can; carbonic anhydrase [EC:4.2.1.1]",carbon
+ko:K01674,cah; carbonic anhydrase [EC:4.2.1.1],carbon
+ko:K01725,cynS; cyanate lyase [EC:4.2.1.104],nitrogen
+ko:K01743,E4.2.1.1; carbonic anhydrase [EC:4.2.1.1],carbon
+ko:K01915,"glnA, GLUL; glutamine synthetase [EC:6.3.1.2]",nitrogen
+ko:K01948,CPS1; carbamoyl-phosphate synthase (ammonia) [EC:6.3.4.16],nitrogen
+ko:K02305,norC; nitric oxide reductase subunit C,nitrogen
+ko:K02567,napA; nitrate reductase (cytochrome) [EC:1.9.6.1],nitrogen
+ko:K02568,"napB; nitrate reductase (cytochrome), electron transfer subunit",nitrogen
+ko:K02575,"NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter",nitrogen
+ko:K03385,nrfA; nitrite reductase (cytochrome c-552) [EC:1.7.2.2],nitrogen
+ko:K04561,norB; nitric oxide reductase subunit B [EC:1.7.2.5],nitrogen
+ko:K05601,hcp; hydroxylamine reductase [EC:1.7.99.1],nitrogen
+ko:K10534,NR; nitrate reductase (NAD(P)H) [EC:1.7.1.1 1.7.1.2 1.7.1.3],nitrogen
+ko:K10535,hao; hydroxylamine dehydrogenase [EC:1.7.2.6],nitrogen
+ko:K10944,pmoA-amoA; methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39],nitrogen
+ko:K10945,pmoB-amoB; methane/ammonia monooxygenase subunit B,nitrogen
+ko:K10946,pmoC-amoC; methane/ammonia monooxygenase subunit C,nitrogen
+ko:K15371,GDH2; glutamate dehydrogenase [EC:1.4.1.2],nitrogen
+ko:K15576,"nrtA, nasF, cynA; nitrate/nitrite transport system substrate-binding protein",nitrogen
+ko:K15577,"nrtB, nasE, cynB; nitrate/nitrite transport system permease protein",nitrogen
+ko:K15578,"nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]",nitrogen
+ko:K15579,"nrtD, cynD; nitrate/nitrite transport system ATP-binding protein",nitrogen
+ko:K15864,nirS; nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1],nitrogen
+ko:K15876,nrfH; cytochrome c nitrite reductase small subunit,nitrogen
+ko:K15877,CYP55; fungal nitric oxide reductase [EC:1.7.1.14],nitrogen
+ko:K17877,NIT-6; nitrite reductase (NAD(P)H) [EC:1.7.1.4],nitrogen
+ko:K18245,CA2; carbonic anhydrase 2 [EC:4.2.1.1],carbon
+ko:K18246,CA4; carbonic anhydrase 4 [EC:4.2.1.1],carbon
+ko:K19823,NAO; nitroalkane oxidase [EC:1.7.3.1],nitrogen
+ko:K20932,K20932; hydrazine synthase subunit [EC:1.7.2.7],nitrogen
+ko:K20933,K20933; hydrazine synthase subunit [EC:1.7.2.7],nitrogen
+ko:K20934,K20934; hydrazine synthase subunit [EC:1.7.2.7],nitrogen
+ko:K20935,hdh; hydrazine dehydrogenase [EC:1.7.2.8],nitrogen
+ko:K22896,vnfD; vanadium-dependent nitrogenase alpha chain [EC:1.18.6.2],nitrogen
+ko:K22897,vnfK; vanadium-dependent nitrogenase beta chain [EC:1.18.6.2],nitrogen
+ko:K22898,vnfG; vanadium nitrogenase delta subunit [EC:1.18.6.2],nitrogen
+ko:K02006,cbiO; cobalt/nickel transport system ATP-binding protein,divalent metal
+ko:K02007,cbiM; cobalt/nickel transport system permease protein,divalent metal
+ko:K02008,cbiQ; cobalt/nickel transport system permease protein,divalent metal
+ko:K02009,cbiN; cobalt/nickel transport protein,divalent metal
+ko:K02031,ABC.PE.A; peptide/nickel transport system ATP-binding protein,divalent metal
+ko:K02032,ABC.PE.A1; peptide/nickel transport system ATP-binding protein,divalent metal
+ko:K02033,ABC.PE.P; peptide/nickel transport system permease protein,divalent metal
+ko:K02034,ABC.PE.P1; peptide/nickel transport system permease protein,divalent metal
+ko:K02035,ABC.PE.S; peptide/nickel transport system substrate-binding protein,divalent metal
+ko:K02036,pstB; phosphate transport system ATP-binding protein [EC:7.3.2.1],phosphorus
+ko:K02037,pstC; phosphate transport system permease protein,phosphorus
+ko:K02038,pstA; phosphate transport system permease protein,phosphorus
+ko:K02040,pstS; phosphate transport system substrate-binding protein,phosphorus
+ko:K02041,phnC; phosphonate transport system ATP-binding protein [EC:7.3.2.2],phosphorus
+ko:K02042,phnE; phosphonate transport system permease protein,phosphorus
+ko:K02044,phnD; phosphonate transport system substrate-binding protein,phosphorus
+ko:K02062,thiQ; thiamine transport system ATP-binding protein,vitamin
+ko:K02063,thiP; thiamine transport system permease protein,vitamin
+ko:K02064,"thiB, tbpA; thiamine transport system substrate-binding protein",vitamin
+ko:K09815,znuA; zinc transport system substrate-binding protein,zinc
+ko:K09816,znuB; zinc transport system permease protein,zinc
+ko:K09817,znuC; zinc transport system ATP-binding protein [EC:7.2.2.-],zinc
+ko:K10094,cbiK; nickel transport protein,nickel
+ko:K10824,"nikE, cntF; nickel transport system ATP-binding protein [EC:7.2.2.11]",nickel
+ko:K10830,"psaB, scaC; manganese/zinc transport system ATP-binding protein [EC:7.2.2.5]",divalent metal
+ko:K11601,mntC; manganese transport system substrate-binding protein,manganese
+ko:K11602,mntB; manganese transport system permease protein,manganese
+ko:K11603,mntA; manganese transport system ATP-binding protein [EC:7.2.2.5],manganese
+ko:K11959,urtA; urea transport system substrate-binding protein,nitrogen
+ko:K11960,urtB; urea transport system permease protein,nitrogen
+ko:K11961,urtC; urea transport system permease protein,nitrogen
+ko:K11962,urtD; urea transport system ATP-binding protein,nitrogen
+ko:K11963,urtE; urea transport system ATP-binding protein,nitrogen
+ko:K15584,"nikA, cntA; nickel transport system substrate-binding protein",nickel
+ko:K15585,"nikB, cntB; nickel transport system permease protein",nickel
+ko:K15586,"nikC, cntC; nickel transport system permease protein",nickel
+ko:K15587,"nikD, cntD; nickel transport system ATP-binding protein [EC:7.2.2.11]",nickel
+ko:K19973,mntA; manganese transport system ATP-binding protein [EC:7.2.2.5],manganese
+ko:K19975,mntC; manganese transport system substrate-binding protein,manganese
+ko:K19976,mntB; manganese transport system permease protein,manganese
+ko:K04751, nitrogen regulatory protein PII 1,nitrogen
+ko:K04752, nitrogen regulatory protein PII 2,nitrogen
+ko:K08176, inorganic phosphate transporter,phosphorus
+ko:K03306, inorganic phosphate transporter,phosphorus
+ko:K01113,alkaline phosphatase D,phosphorus
+ko:K07238,"TC.ZIP, zupT, ZRT3, ZIP2; zinc transporter, ZIP family",zinc
+ko:K19971,"psaA, scaA, sloC; manganese/zinc transport system substrate-binding protein",zinc
+ko:K02641,petH; ferredoxin--NADP+ reductase,iron
+ko:K03322,mntH; manganese transport protein,manganese
+ko:K00518,sodN; nickel superoxide dismutase,nickel
+ko:K04565,"SOD1; superoxide dismutase, Cu-Zn family",divalent metal
+ko:K16627,"SOD3; superoxide dismutase, Cu-Zn family",divalent metal
+ko:K14686,"SLC31A1, CTR1; solute carrier family 31 (copper transporter)",copper
+ko:K07245,pcoD; copper resistance protein D ,copper
+ko:K14687,Human copper transporter 2,copper
+ko:K14166,ycnJ; copper transport protein,copper
