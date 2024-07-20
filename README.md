@@ -2,6 +2,8 @@
 Notebooks associated with the study "Protistan metabolism across the western North Atlantic Ocean revealed through autonomous underwater profiling". Using an Autonomous Underwater Vehicle (AUV), high resolution vertical sampling of the microbial community was performed along a western North Atlantic Ocean transect, capturing metabolic signatures from oligotrophic, continental margin, and coastal ecosystems. Plankton biomass was collected along the surface gradient and across depths (to 4,100 m), and taxonomy and function was examined using a paired metatranscriptomic and metaproteomic approach. The metatranscriptomic assembly was generated using the <i>euk</i>rhythmic pipeline (https://github.com/AlexanderLabWHOI/eukrhythmic).
 
 ## Notebooks
+<b>spike.ipynb</b> = How transcript copies/L were calculated. Salmon pseudo-counts were multiplied by the number of spiked copies added, the dilution factor (ng RNA extracted / ng RNA used in library prep), and divided by the number of reads associated with spikes in that sample and volume of seawater filtered (1/16th of filters were used for RNA).
+
 <b>BATS_R_cleaned.ipynb</b> = Protein normalizations, community composition stacked barplots, NMDS plots, MA plots, Partial Least Squares regression with transcripts and metadata. This notebook is "choose your own adventure" style, where you can read in the dataset of interest in the first code block (by commenting/uncommenting them out), and perform which normalizations/visualizations to run. Datasets are available on Zenodo (see below).
 
 <b>network.ipynb</b> = Network analysis with transcripts
