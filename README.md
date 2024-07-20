@@ -13,8 +13,6 @@ Notebooks associated with the study "Protistan metabolism across the western Nor
 ## Analysis files
 <b>metals_ODV.csv</b> = Dissolved trace metals in nM, macronutrients in uM, and particulate trace metals in pM
 
-<b>Salinity_metals.csv</b> = Dissolved trace metals in nM alongside Salinity (PSU) from CTD
-
 <b>id.csv</b> = Sequencing file ID to sample key
 
 <b>levels.csv</b> = Order of samples for stacked barplot plotting
@@ -23,7 +21,7 @@ Notebooks associated with the study "Protistan metabolism across the western Nor
 
 <b>BATS_metaproteome_sample_progress_forbarplot.csv</b> = total extracted protein concentration from Clio filters in ug/L
 
-<b>pigments_trans_prot.csv</b> = For biomass comparisons. Total extracted protein concentrations from Clio filters in ug/L (above), transcript copies/L estimates summed across EUKulele-annotated eukaryotes, and pigment concentrations in ng/kg
+<b>pigments_trans_prot.csv</b> = For biomass comparisons. Total protein abundance from Clio filters in spectral counts/L, transcript copies/L estimates summed across EUKulele-annotated eukaryotes from Clio filters, and pigment concentrations in ng/kg
 
 <b>BATS_quant.csv</b> = For visualizing protein distributions. Total protein amount from Clio filters, amount injected onto the mass spectrometer, and volume filtered. These parameters are used to calculate "protein spectral counts per L" = spectral counts * (total protein/protein injected) / volume filtered.
 
